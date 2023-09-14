@@ -21,7 +21,7 @@ POST http://localhost:3000/videos/5070abda-8b3b-49c2-96c8-26711322830d/transcrip
 Content-Type: application/json
 
 {
-  "prompt": "solidão, saúde, século 21"
+  "prompt": "saúde, século 21"
 }
 
 ###
