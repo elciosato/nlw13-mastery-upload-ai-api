@@ -5,7 +5,7 @@ Backend API developed during NLW AI Mastery event by Rocketseat.
 
 ## Overview
 
-The Backend application is tightly integrated with the [Frontend](https://github.com/elciosato/nlw13-mastery-upload-ai-web) application, serving as the core processing unit. The primary responsibility is to facilitate the seamless uploading of audio MP3 files to the server and subsequently processing these file to generate accurate transcriptions. Beyond this fundamental functionality, the application offers the automatic generation of YouTube video titles and descriptions, leveraging the transcriptions generated earlier.
+The Backend application is tightly integrated with the [Frontend](https://github.com/elciosato/nlw13-mastery-upload-ai-web) application, serving as the core processing unit. The primary responsibility is to facilitate the uploading of audio MP3 files to the server and subsequently processing these file to generate accurate transcriptions. Beyond this fundamental functionality, the application offers the automatic generation of YouTube video titles and descriptions, leveraging the transcriptions generated earlier.
 
 ## Installation
 
